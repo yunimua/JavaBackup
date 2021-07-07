@@ -1,0 +1,4 @@
+6-4-5
+ draw : 6
+ user win : 4
+ computer win : 5
