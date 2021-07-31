@@ -1,4 +1,4 @@
-package gui.quiz;
+package gui.quiz.maple;
 
 import java.awt.*;
 import java.awt.event.*;
@@ -7,7 +7,6 @@ import java.util.*;
 import javax.swing.*;
 
 import gui.mycomponent.*;
-import gui.quiz.maple.*;
 
 public class MapleStroy extends JFrame {
 
