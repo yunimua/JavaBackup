@@ -1,6 +1,6 @@
-/*import quiz.A00_PrintRabbit;
+import quiz.A00_PrintRabbit;
 import quiz.A01_Cash;
-import quiz.A02_Gildong;*/
+import quiz.A02_Gildong;
 
 import quiz.*;
 

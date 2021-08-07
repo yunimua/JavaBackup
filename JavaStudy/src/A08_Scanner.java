@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class A08_Scanner {
@@ -53,9 +52,4 @@ public class A08_Scanner {
 		System.out.println("입력하신 문자는 : " + str);
 		
 	}
-	
-	
-	
-	
-	
 }
