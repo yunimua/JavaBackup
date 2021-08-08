@@ -1,6 +1,5 @@
 
 public class B02_CharAt {
-
 	/*
 		# "¹®ÀÚ¿­".charAt(index);
 		

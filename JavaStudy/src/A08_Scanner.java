@@ -10,8 +10,7 @@ public class A08_Scanner {
 	  	 - 콘솔로부터 입력받고 싶을 때는 System.in을 사용한다
 	  	
 	*/
-	public static void main(String[] args) {
-		
+	public static void main(String[] args) {	
 		Scanner sc = new Scanner(System.in);
 		/* 	
 		 	- new는 새로운 스캐너를 생성할 때 사용한다

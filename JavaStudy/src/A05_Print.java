@@ -1,4 +1,3 @@
-
 public class A05_Print {
 	public static void main(String[] args) {
 		

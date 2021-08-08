@@ -1,6 +1,5 @@
 
 public class B01_If {
-
 	/*
 		# If문
 		 - ()안의 값이 true일 때 {}안의 내용을 실행한다
